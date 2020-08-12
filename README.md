@@ -2,11 +2,11 @@
 
 The dotnet/core repository is a good starting point for .NET Core.
 
-The latest major release is [.NET Core 2.2](release-notes/2.2). The latest patch updates are listed in [.NET Core release notes](release-notes/README.md).
+The latest major release is [.NET Core 3.1](release-notes/3.1). The latest patch updates are listed in [.NET Core release notes](release-notes/README.md).
 
 ## Download the latest .NET Core SDK
 
-* [.NET Core 2.2 SDK](release-notes/2.2/README.md)
+* [.NET Core 3.1 SDK](release-notes/3.1/README.md)
 
 ## .NET Core Releases and Daily Builds
 
@@ -24,16 +24,14 @@ The latest major release is [.NET Core 2.2](release-notes/2.2). The latest patch
 
 ## Getting help
 
-* [File a .NET Core issue](https://github.com/dotnet/core/issues)
-* [File an ASP.NET Core issue](https://github.com/aspnet/home/issues)
-* [File an issue for other components](Documentation/core-repos.md)
+* [File an issue](Documentation/core-repos.md)
 * [Ask on Stack Overflow](https://stackoverflow.com/questions/tagged/.net-core)
 * [Contact Microsoft Support](https://support.microsoft.com/contactus/)
-* [VS Developer Community Portal](https://developercommunity.visualstudio.com/) for "full" .NET Framework feedback (or via [Report a Problem](https://aka.ms/vs-rap) tool)
+* [VS Developer Community Portal](https://developercommunity.visualstudio.com/) for .NET Framework feedback (or via [Report a Problem](https://aka.ms/vs-rap) tool)
 
 ## How to Engage, Contribute and Provide Feedback
 
-The .NET Core team encourages [contributions](https://github.com/dotnet/coreclr/blob/master/Documentation/project-docs/contributing.md), both issues and PRs. The first step is finding the [.NET Core repository](Documentation/core-repos.md) that you want to contribute to.
+The .NET Core team encourages [contributions](https://github.com/dotnet/runtime/blob/master/CONTRIBUTING.md), both issues and PRs. The first step is finding the [.NET Core repository](Documentation/core-repos.md) that you want to contribute to.
 
 ### Community
 
